@@ -1,0 +1,10 @@
+Living room
+Dining room
+Kitchen
+Bedroom
+Bathroom
+Laundry room
+Basement
+Garage
+Patio
+Garden
